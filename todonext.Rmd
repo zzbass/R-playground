@@ -1,0 +1,9 @@
+---
+title: "todonext"
+output: html_document
+---
+
+## To do next
+- odfiltrovat množinu dat z "contributor" ne via vypisování, ale via množinu / vektor
+- rozlepit čas > prozkoumat lubridate
+- datovépřiřadit datové typy sloupcům
